@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift + React + React native**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/tlathion/cbac2546dc254ebd8f0972c62940239c?v=21d4f32ce92d4edea2fc1966490e8815&pvs=4](https://www.notion.so/tlathion/cbac2546dc254ebd8f0972c62940239c?v=21d4f32ce92d4edea2fc1966490e8815&pvs=4)
+- 👨‍💻 All of my projects are available at [my Notion Portfolio](https://www.notion.so/tlathion/cbac2546dc254ebd8f0972c62940239c?v=21d4f32ce92d4edea2fc1966490e8815&pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
