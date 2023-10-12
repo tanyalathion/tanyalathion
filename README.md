@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanya!</h1>
 <h3 align="center">A UX Designer & Full Stack Developer from Switzerland🇨🇭</h3>
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://media.giphy.com/media/4TEgyBJF8lVltQuORq/giphy.gif" alt="Dino Run">
-</div>
+</p>
 
 - 🌱 I’m currently learning:
 	- [x] Swift
