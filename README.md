@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanya!</h1>
-<h3 align="center">An UX Designer & Developer from Switzerland🇨🇭</h3>
+<h3 align="center">A Product Designer from Switzerland🇨🇭</h3>
 
 - 🌱 I’m currently learning:
 	- [x] Swift
-  - [ ] React
+  	- [ ] React
 
 ----
 
