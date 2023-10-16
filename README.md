@@ -9,4 +9,4 @@
 	- [x] Swift
   	- [ ] React
 
-- 👨‍💻 A sample of my projects is available at [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
+- 👨‍💻 A sample of my projects is available in [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
