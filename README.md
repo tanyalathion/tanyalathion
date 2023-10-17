@@ -10,3 +10,5 @@
   	- [ ] React
 
 - 👨‍💻 A sample of my projects is available in [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
+
+[![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tanyalathion&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
