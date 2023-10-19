@@ -2,7 +2,7 @@
 <h3 align="center">A UX Designer & Full Stack Developer from Switzerland🇨🇭</h3>
 
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/v2/resize:fit:688/1*82D2cg8Gpe9CVISaph6RPg.gif" alt="Dino Run">
+  <img src="https://media.giphy.com/media/S65QkXAcdXvF1o9gHk/giphy.gif" alt="Mural collective intelligence">
 </p>
 
 - 🌱 I’m currently learning:
