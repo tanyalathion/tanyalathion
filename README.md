@@ -12,3 +12,17 @@
 ### :metal: Projects
 - :point_right: Right now, I'm working on a blogging app for my brother's trip around the world. :sparkles: Stack: Ruby on Rails / React
 - 👨‍💻 A sample of my projects is available in [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
+
+### :briefcase: Work experience
+- Project Manager / Groupe Mutuel (2023-present)
+- Web Content Manager / Groupe Mutuel (2018-2023)
+- Communication Specialist / Syngenta (2017-2018)
+- UX Writer & Architect / Freelance (2013-2017)
+- Advertising Copywriter / Gaultier Colette (2012-2013)
+- Advertising Copywriter / M&C Saatchi (2012)
+
+### :mortar_board: Education
+- Fullstack Web developer / Le Wagon (2023)
+- UX Designer / SAWI (2022)
+- Master Digital Marketing - Spec. Data-driven strategy / CREA (2022)
+- Bachelor Art Direction - Spec. Copywriting / CREA (2011)
