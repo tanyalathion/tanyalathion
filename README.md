@@ -14,7 +14,7 @@
 - 👨‍💻 A sample of my projects is available in [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
 
 ### :briefcase: Work experience
-- Project Manager / Groupe Mutuel (2023-present)
+- Project Manager / Groupe Mutuel (2023)
 - Web Content Manager / Groupe Mutuel (2018-2023)
 - Communication Specialist / Syngenta (2017-2018)
 - UX Writer & Architect / Freelance (2013-2017)
