@@ -10,7 +10,7 @@
   - [x] React
  
 ### :metal: Projects
-- :point_right: Right now, I'm working on a blogging app for my brother's trip around the world. :sparkles: Stack: Ruby on Rails / React
+- :point_right: Right now, I'm working on my personal website. :sparkles: Stack: Ruby on Rails / Bootstrap
 - 👨‍💻 A sample of my projects is available in [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
 
 ### :briefcase: Work experience
