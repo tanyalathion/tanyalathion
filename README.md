@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning:
 	- [x] Swift
-  - [x] React
+ 	- [x] Python
+  	- [x] React
  
 ### :metal: Projects
 - :point_right: Right now, I'm working on my personal website. :sparkles: Stack: Ruby on Rails / Bootstrap
