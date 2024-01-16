@@ -12,7 +12,7 @@
  
 ### :metal: Projects
 - :point_right: Right now, I'm working on my personal website. :sparkles: Stack: Ruby on Rails / Bootstrap
-- 👨‍💻 A sample of my projects is available in [my Notion Portfolio](https://tlathion.notion.site/Tanya-Lathion-Product-Designer-ecc3ce60089e4e34a6f83fa9472038d7?pvs=4)
+- 👨‍💻 A MVP of my portfolio is available in [tanyalathion.ch](https://www.tanyalathion.ch) -> French only
 
 ### :briefcase: Work experience
 - Project Manager / Groupe Mutuel (2023)
