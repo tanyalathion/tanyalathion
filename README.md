@@ -12,7 +12,7 @@
  
 ### :metal: Projects
 - :point_right: Right now, I'm working on my personal website. :sparkles: Stack: Ruby on Rails / Bootstrap
-- 👨‍💻 A MVP of my portfolio is available in [tanyalathion.ch](https://www.tanyalathion.ch) -> French only
+- 👨‍💻 A MVP of my portfolio is available at [tanyalathion.ch](https://www.tanyalathion.ch) -> French only
 
 ### :briefcase: Work experience
 - Project Manager / Groupe Mutuel (2023)
