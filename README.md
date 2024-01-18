@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning:
 	- [x] Swift
- 	- [x] Python
   	- [x] React
  
 ### :metal: Projects
