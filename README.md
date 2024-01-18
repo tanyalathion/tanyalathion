@@ -15,7 +15,7 @@
 - 👨‍💻 A MVP of my portfolio is available at [tanyalathion.ch](https://www.tanyalathion.ch) -> French only
 
 ### :briefcase: Work experience
-- Project Manager / Groupe Mutuel (2023)
+- Marketing Project Manager / Groupe Mutuel (2023)
 - Web Content Manager / Groupe Mutuel (2018-2023)
 - Communication Specialist / Syngenta (2017-2018)
 - UX Writer & Architect / Freelance (2013-2017)
