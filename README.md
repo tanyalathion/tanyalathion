@@ -22,7 +22,7 @@
 - Advertising Copywriter / M&C Saatchi (2012)
 
 ### :mortar_board: Education
-- Fullstack Web developer / Le Wagon (2023)
+- Fullstack Web Developer / Le Wagon (2023)
 - UX Designer / SAWI (2022)
 - Master Digital Marketing - Spec. Data-driven strategy / CREA (2022)
 - Bachelor Art Direction - Spec. Copywriting / CREA (2011)
