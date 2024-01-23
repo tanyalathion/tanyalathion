@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning:
 	- [x] Swift
   	- [x] React
+
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanyalathion)](https://github.com/anuraghazra/github-readme-stats)
  
 ### :metal: Projects
 - :point_right: Right now, I'm working on my personal website. :sparkles: Stack: Ruby on Rails / Bootstrap
