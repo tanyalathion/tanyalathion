@@ -6,6 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning:
+  - [ ] Dart/Flutter
 	- [ ] Swift
   	- [x] React
 
