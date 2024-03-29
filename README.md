@@ -25,6 +25,7 @@
 
 ### :mortar_board: Education
 - iOS Developer / Meta + Coursera (pending) ⏳
+- UX Designer / Google + Coursera (pending) ⏳
 - Fullstack Web Developer / Le Wagon (2023)
 - UX Designer / SAWI (2022)
 - Master Digital Marketing - Spec. Data-driven strategy / CREA (2022)
