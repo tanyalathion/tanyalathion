@@ -13,8 +13,7 @@
  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanyalathion)](https://github.com/anuraghazra/github-readme-stats)
  
 ### :metal: Projects
-- :point_right: Right now, I'm working on my personal website. :sparkles: Stack: Ruby on Rails / Bootstrap
-- 👨‍💻 A MVP of my portfolio is available at [tanyalathion.ch](https://www.tanyalathion.ch)
+- :point_right: I'm learning Swift and iOS development environment :apple:
 
 ### :briefcase: Work experience
 - Marketing Project Manager / Groupe Mutuel (2023)
