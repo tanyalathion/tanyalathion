@@ -10,7 +10,7 @@
 - [x] Swift
 - [ ] Dart/Flutter
 
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanyalathion)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanyalathion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 ### :metal: Projects
 - :point_right: I'm learning Swift and iOS development environment :apple:
