@@ -16,7 +16,8 @@
 - :point_right: I'm learning Swift and iOS development environment :apple:
 
 ### :briefcase: Work experience
-- Marketing Project Manager / Groupe Mutuel (2023)
+- Web Project Manager / UniDistance (2024 - present)
+- Digital Project Manager / Groupe Mutuel (2023)
 - Web Content Manager / Groupe Mutuel (2018-2023)
 - Communication Specialist / Syngenta (2017-2018)
 - UX Writer & Architect / Freelance (2013-2017)
