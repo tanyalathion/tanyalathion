@@ -24,10 +24,12 @@
 - Advertising Copywriter / Gaultier Colette (2012-2013)
 - Advertising Copywriter / M&C Saatchi (2012)
 
+### :rocket: Certifications
+- iOS Developer Professional Certificate / Meta (pending) ⏳
+- UX Designer Professional Certificate / Google (2025)
+
 ### :mortar_board: Education
-- iOS Developer / Meta + Coursera (pending) ⏳
-- UX Designer / Google + Coursera (2025)
 - Fullstack Web Developer / Le Wagon (2023)
 - UX Designer / SAWI (2022)
-- Master Digital Marketing - Spec. Data-driven strategy / CREA (2022)
-- Bachelor Art Direction - Spec. Copywriting / CREA (2011)
+- Executive Master Digital Marketing - Spec. Data-driven strategy / CREA (2022)
+- Bachelor of Art Art Direction - Spec. Copywriting / CREA (2011)
