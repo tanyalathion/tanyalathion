@@ -2,7 +2,7 @@
 <h3 align="center">A product enthusiast from Switzerland🇨🇭</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/S65QkXAcdXvF1o9gHk/giphy.gif" alt="Mural collective intelligence">
+  <img src="https://blog.mindmanager.com/wp-content/uploads/2022/03/shutterstock_421087342.jpg" alt="Product Design">
 </p>
 
 - 🌱 I’m currently learning:
