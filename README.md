@@ -26,6 +26,7 @@
 
 ### :rocket: Certifications
 - iOS Developer Professional Certificate / Meta (pending) ⏳
+- iOS UI Developer Specialization / Meta (2025)
 - UX Designer Professional Certificate / Google (2025)
 
 ### :mortar_board: Education
