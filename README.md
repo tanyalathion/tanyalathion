@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyalathion&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  
 ### :metal: Projects
-- :point_right: I'm learning Swift and iOS development environment :apple:
+- :point_right: I'm learning Swift and PHP
 
 ### :briefcase: Work experience
 - Web Project Manager / UniDistance (2024 - present)
